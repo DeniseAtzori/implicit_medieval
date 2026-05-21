@@ -1,0 +1,5 @@
+dataset,n,implicit,none,pct_impl,ratio
+dataset_initial.json,1333,451,882,33.8,1.96
+arct_binary.json,994,497,497,50.0,1.0
+implicit_hate_binary.json,996,498,498,50.0,1.0
+external_combined_binary.json,1990,995,995,50.0,1.0
