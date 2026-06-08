@@ -15,4 +15,11 @@ Predict the label from the tweet text alone. No external data or additional anno
 
 **Tried and tested approaches:**
 
-- Comparison of two training strategies for DeBertA-v3-base: full fine-tuning and LoRA, using hyperparameter grid search
+- Comparison of two training strategies for DeBERTa-v3-base/large: full fine-tuning and LoRA, using hyperparameter grid search
+
+### Constrained Run 2
+In addition to the tweet text, use the raw labels provided by three independent annotators. The goal is to investigate whether modelling annotator disagreement improves performance, especially on borderline cases. The output label is the same three-class prediction.
+
+**Tried and tested approaches:**
+
+- Full fine-tuning and LoRA for DeBERTa-v3-large with KL Divergence Loss (with ablation on alpha)
