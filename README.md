@@ -1,4 +1,5 @@
-# Folder for the MediaEval task: Missing pieces and misinformation
+# Hunting enthymemes
+A project for the shared task "Missing Pieces and Misinformation: Identifying social media posts with implicit messages (pilot task)" by Denise Atzori, Julie Duhesme, Maria Kirbasova and Quanwen Long.
 
 Shared Task link: (https://multimediaeval.github.io/editions/2026/tasks/enthymeme/)
 
