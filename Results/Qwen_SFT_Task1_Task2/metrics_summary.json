@@ -1,0 +1,11 @@
+{
+  "task_a_accuracy": 0.6434108527131783,
+  "task_a_binary_accuracy": 0.6589147286821705,
+  "uncertainty_accuracy": 0.8507462686567164,
+  "task_b_mean_rouge_l_canonical": 0.22575437045685146,
+  "task_b_mean_rouge_l_max_majority_refs": 0.30699549821573224,
+  "task_b_mean_rouge_l_max_valid_refs": 0.3101220013422354,
+  "full_pipeline_classification_accuracy": 0.6434108527131783,
+  "full_pipeline_mean_rouge_l_canonical": 0.049797274001166084,
+  "full_pipeline_mean_rouge_l_max_valid_refs": 0.07147254287778748
+}
